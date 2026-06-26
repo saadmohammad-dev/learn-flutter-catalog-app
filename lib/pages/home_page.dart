@@ -7,15 +7,11 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext contex) {
     return Scaffold(
       appBar: AppBar(title: Text('Catalog APP')),
-
-      body: Container(
-        child: Center(
-          child: Container(
-            child: Text("Welcome in $days days of flutter with $name ."),
-          ),
+      body: Center(
+        child: Container(
+          child: Text("Welcome in $days days of flutter with $name ."),
         ),
       ),
-
       drawer: Drawer(),
     );
   }
