@@ -19,9 +19,9 @@ class MyApp extends StatelessWidget {
       // home: HomePage(),
       themeMode: ThemeMode.light,
       theme: ThemeData(
-        primarySwatch: Colors.deepPurple,
-        fontFamily: GoogleFonts.lato().fontFamily,
-        primaryTextTheme: GoogleFonts.lacquerTextTheme(),
+       primarySwatch: Colors.deepPurple,
+       // fontFamily: GoogleFonts.lato().fontFamily,
+       // primaryTextTheme: GoogleFonts.lacquerTextTheme(),
       ),
       darkTheme: ThemeData(brightness: Brightness.dark),
 
