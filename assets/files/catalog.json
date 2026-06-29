@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12 Pro",
+      "desc": "Apple iPhone 12th generation",
+      "price": 999,
+      "color": "#33505a",
+      "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=500"
+    },
+    {
+      "id": 2,
+      "name": "Pixel 5",
+      "desc": "Google Pixel 5th generation",
+      "price": 699,
+      "color": "#000000",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500"
+    },
+    {
+      "id": 3,
+      "name": "M1 MacBook Air",
+      "desc": "Apple MacBook Air with M1 chip",
+      "price": 1199,
+      "color": "#e3e4e5",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500"
+    },
+    {
+      "id": 4,
+      "name": "PlayStation 5",
+      "desc": "Sony PlayStation 5 Next-gen console",
+      "price": 499,
+      "color": "#ffffff",
+      "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=500"
+    }
+  ]
+}
