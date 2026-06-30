@@ -30,7 +30,6 @@ class MyApp extends StatelessWidget {
     );
   }
 
-  //  bringVegitables({required bool thala, int rupees=100}) {
 
-  //  }
+
 }

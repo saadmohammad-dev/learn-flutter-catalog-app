@@ -13,7 +13,7 @@
       "name": "Pixel 5",
       "desc": "Google Pixel 5th generation",
       "price": 699,
-      "color": "#000000",
+      "color": "#33505a",
       "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500"
     },
     {
@@ -31,6 +31,54 @@
       "price": 499,
       "color": "#ffffff",
       "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=500"
+    },
+    {
+      "id": 5,
+      "name": "AirPods Pro",
+      "desc": "Apple AirPods Pro Noise Cancelling",
+      "price": 249,
+      "color": "#ffffff",
+      "image": "https://images.unsplash.com/photo-1588449668365-d15e397f6787?w=500"
+    },
+    {
+      "id": 6,
+      "name": "iPad Pro",
+      "desc": "Apple iPad Pro with M1 chip",
+      "price": 799,
+      "color": "#spacegrey",
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500"
+    },
+    {
+      "id": 7,
+      "name": "Galaxy S21 Ultra",
+      "desc": "Samsung Galaxy S21 Ultra 5G",
+      "price": 1299,
+      "color": "#000000",
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500"
+    },
+    {
+      "id": 8,
+      "name": "Apple Watch Series 6",
+      "desc": "Smartwatch with blood oxygen sensor",
+      "price": 399,
+      "color": "#blue",
+      "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=500"
+    },
+    {
+      "id": 9,
+      "name": "Sony WH-1000XM4",
+      "desc": "Premium Noise Cancelling Headphones",
+      "price": 348,
+      "color": "#silver",
+      "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=500"
+    },
+    {
+      "id": 10,
+      "name": "Nintendo Switch",
+      "desc": "Gaming Console with Neon Blue and Red Joy‑Con",
+      "price": 299,
+      "color": "#redblue",
+      "image": "https://images.unsplash.com/photo-1568632234157-ce7aecd03d0d?w=500"
     }
   ]
 }
